@@ -1,0 +1,28 @@
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    top: 100px;
+    width: 80%;
+    align-items: center; 
+    margin: 0 auto;
+}
+.box1{
+    border: 2px solid black;
+    height: 100px;
+    width: 30%;
+    background-color: aqua;
+}
+.box2{
+    border: 2px solid black;
+    height: 100px;
+    width: 30%;
+    background-color: plum;
+}
+.box3{
+    border: 2px solid black;
+    height: 100px;
+    width: 30%;
+    background-color: gray;
+}
